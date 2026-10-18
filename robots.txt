@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://CONFIRM-DOMAIN.example/sitemap.xml
